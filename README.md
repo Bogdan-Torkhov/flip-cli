@@ -12,4 +12,6 @@ To run these program on linux:
 
 5 copy to system bins ``` sudo cp flip /usr/bin ```
 
-6 enjoy!!!
+6 run using ``` flip ```
+
+7 enjoy!!!
